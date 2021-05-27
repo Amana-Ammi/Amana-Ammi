@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+
+Now Spinning: 
+
+[![Spotify](https://spotify-now-playing-amana-ammi.vercel.app/api/spotify)](https://open.spotify.com/user/apollomonk)
+
 <!--
 **Amana-Ammi/Amana-Ammi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
