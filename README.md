@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+What I'm Currently Reading: Parable of Talents by Octavia Butler
 
 
 Now Spinning: 
