@@ -1,4 +1,5 @@
 ### Hi there and welcome to my GitHub! 👋
+<!-- How can I place an image or banner here?  -->
 
 A Little Bit About Me:
 I am still fresh in the Software Engineering World but I believe that all of my life choices led me here for a reason.
