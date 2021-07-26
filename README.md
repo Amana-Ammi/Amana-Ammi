@@ -1,19 +1,22 @@
 ### Hi there and welcome to my GitHub! 👋
 <!-- How can I place an image or banner here?  -->
 
-A Little Bit About Me:
-I am still fresh in the Software Engineering World but since I started my learning journey in the midst of a pandemic, I know there is no turning back for me. 
-My love for music is otherworldly and I enjoy all work that involves a connection to it. 
+🌱 A Little Bit About Me 🌱
+
+I am still fresh in the Software Engineering World but since I started my learning journey in the midst of a pandemic, I know there is no turning back for me. My love for music is otherworldly and I enjoy all work that involves a connection to it. When I'm not coding, you can find me curating new playlists, mixing songs that are stuck in my head, learning 3D modeling, learning a musical instrument(guitar currently) or finding something to change/fix on my car.
+
+🌱 Current Work 🌱
 
 I'm currently working an Internship that allows me to help those in disadvantaged communities break into tech and I would love to continue aiding those in need with my career. That includes the Black, Indigneous, people of color and LGBTQ+ communities.
 
-Explanation of some bare spots:
-Shortly after graduating bootcamp I was offered an internship and that has pushed majority of my git commits to the private sector.
+Shortly after graduating bootcamp, I was offered the Internship and that has pushed majority of my git commits to the private sector.
 
-What I'm Currently Reading: Parable of Talents by Octavia Butler
+🌱 What I'm Currently Reading 🌱  
+
+Parable of Talents by Octavia Butler
 
 
-Now Spinning: 
+⚡ Now Spinning ⚡
 
 [![Spotify](https://spotify-now-playing-amana-ammi.vercel.app/api/spotify)](https://open.spotify.com/user/apollomonk)
 
