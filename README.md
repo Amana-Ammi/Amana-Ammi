@@ -7,7 +7,7 @@ I am still fresh in the Software Engineering World but since I started my learni
 
 🌱  Current Work 🌱
  
-After a long hiatus, I am now working independently to build up my skills and head back into the wokforce.That includes the Black, Indigneous, people of color and LGBTQ+ communities.
+After a long hiatus, I am now working independently to build up my skills and head back into the wokforce.
 
 🌱  What I'm Currently Reading 🌱  
 
